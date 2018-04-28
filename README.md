@@ -9,7 +9,7 @@ A simple command line word guessing game. This was a test for utalizing contruct
 
 ## Running the app
 
-1. Run the app with 'node index.js'
+1. Run the app with 'node index.js' in the bash terminal
 2. The game will choose a target word at random and will then ask you to supply a single letter guess
 3. Correct guesses will fill out the displayed target word in the console
 4. Once the target word is complete, the player has the option to continue playing with a new word or quit
